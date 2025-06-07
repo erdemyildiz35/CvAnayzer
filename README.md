@@ -1,4 +1,5 @@
-CV Analyzer
+
+
 CV Analyzer is a web application that analyzes uploaded CVs in PDF format and provides users with feedback on missing elements and areas for improvement. The project aims to enhance the quality of resumes using natural language processing and AI models.
 
 Features
